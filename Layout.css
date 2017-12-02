@@ -1,4 +1,11 @@
-﻿h1 {
+﻿
+/* Figure out how to get this to work since it doesn't seem to have any effect
+    body {
+    background-color: #7C3F7C
+} 
+*/
+
+h1 {
     font-family: "Lucida Calligraphy";
     font-size: 750%;
     font-weight: bold;
