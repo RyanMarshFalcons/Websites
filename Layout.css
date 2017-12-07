@@ -2,7 +2,16 @@
     margin-left: 150px;
 }
 
+h2 {
+    font-size: 300%;
+    color: #66c2ff;
+    text-align: center;
+    text-decoration: underline;
+}
 
+h3 {
+    font-size:20px; 
+}
 .navbar {
     width:70%;
     overflow: hidden;
@@ -44,22 +53,15 @@ li a:hover:not(.active) {
 }
 
 .textbox {
-    margin-left: 25%;
-    margin-top: -100px;
+   margin-left:150px;
+   margin-top:-183px;
+   width:884px;
+   height:700px;
+   background-color:white;
+   font-family:'Century Gothic';
+   padding-left: 60px;
+   padding-right: 60px;
 }
-
-
-textarea {
-         
-            width: 900px;
-            height: 400px;
-            font: normal 20px Avenir;
-            line-height: 25px;
-            padding: 5px;
-            border: solid 1px black;
-            box-sizing: border-box;
-        }
-
 
 
 a:link {
